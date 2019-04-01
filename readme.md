@@ -34,7 +34,7 @@ c. 逐行读取文本文件并直接保存二维码的png格式图片到文件�
 
 运行结果如下：
 
-![](C:\Users\nayuk\Pictures\工作\c#\qrcode\结果1.JPG)
+![](qrcode/代码1.JPG)
 
 使用手机扫码得到结果如下：
 
