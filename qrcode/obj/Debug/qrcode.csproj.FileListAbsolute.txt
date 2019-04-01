@@ -1,0 +1,22 @@
+D:\Nayuki conversation\qrcode\qrcode\obj\Debug\qrcode.csprojAssemblyReference.cache
+D:\Nayuki conversation\qrcode\qrcode\obj\Debug\qrcode.csproj.CoreCompileInputs.cache
+D:\Nayuki conversation\qrcode\qrcode\bin\Debug\qrcode.exe.config
+D:\Nayuki conversation\qrcode\qrcode\bin\Debug\qrcode.exe
+D:\Nayuki conversation\qrcode\qrcode\bin\Debug\qrcode.pdb
+D:\Nayuki conversation\qrcode\qrcode\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\Nayuki conversation\qrcode\qrcode\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\Nayuki conversation\qrcode\qrcode\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\Nayuki conversation\qrcode\qrcode\obj\Debug\qrcode.csproj.CopyComplete
+D:\Nayuki conversation\qrcode\qrcode\obj\Debug\qrcode.exe
+D:\Nayuki conversation\qrcode\qrcode\obj\Debug\qrcode.pdb
+D:\Nayuki-conversation\qrcode\qrcode\bin\Debug\qrcode.exe.config
+D:\Nayuki-conversation\qrcode\qrcode\bin\Debug\qrcode.exe
+D:\Nayuki-conversation\qrcode\qrcode\bin\Debug\qrcode.pdb
+D:\Nayuki-conversation\qrcode\qrcode\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\Nayuki-conversation\qrcode\qrcode\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\Nayuki-conversation\qrcode\qrcode\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\Nayuki-conversation\qrcode\qrcode\obj\Debug\qrcode.csprojAssemblyReference.cache
+D:\Nayuki-conversation\qrcode\qrcode\obj\Debug\qrcode.csproj.CoreCompileInputs.cache
+D:\Nayuki-conversation\qrcode\qrcode\obj\Debug\qrcode.csproj.CopyComplete
+D:\Nayuki-conversation\qrcode\qrcode\obj\Debug\qrcode.exe
+D:\Nayuki-conversation\qrcode\qrcode\obj\Debug\qrcode.pdb
